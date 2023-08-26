@@ -21,15 +21,19 @@ Bachelor's degree in software engineering with approaches to programming using l
 
 ### 🏆 Projects:
 **⭐ Cinema system in TypeScript**
+
 Cinema management system with Backend and Frontend using TypeScript, Node.js, React, Prisma, with Backend as a service architecture (BaaS).
 
 **⭐ Development and testing of Thoth, a web platform using PHP**
+
 Development of a Web Application with Laravel Framework, Docker Containers and PHPUnit Tests.
 
 **⭐ Selenium Automated Tests on a Web Platform**
+
 Documentation and Implementation of automated Java tests, using Selenium IDE and JUnit.
 
 **⭐ Development of a informative website**
+
 Development of a web application with PHP, JS, HTML and CSS for a federal agent.
 
 <!--
