@@ -36,6 +36,9 @@ Documentation and Implementation of automated Java tests, using Selenium IDE and
 
 Development of a web application with PHP, JS, HTML and CSS for a federal agent.
 
+### ⚡GitHub Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLFialho&show_icons=true&theme=holi&hide=stars&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MatheusLFialho/MatheusLFialho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
