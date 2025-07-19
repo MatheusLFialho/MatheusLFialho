@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Matheus Lemes Fialho, a Full-Stack Developer. I'm currently studying software engineering at Universidade Federal do Pampa in Rio Grande do Sul, Brazil. I have knowledge of SvelteKit, PHP, Java, JavaScript, TypeScript, Node.js, React.js, MySQL, C and Python. I graduated in Internet IT Technician at Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense in Rio Grande do Sul, Brazil
+I'm Matheus Lemes Fialho, a Full-Stack Developer. I hold a Bachelor's degree in Software Engineering and am currently pursuing a Master's degree in the same field, both from Universidade Federal do Pampa in Rio Grande do Sul, Brazil. I have knowledge of SvelteKit, PHP, Java, JavaScript, TypeScript, Node.js, React.js, MySQL, C and Python. I also graduated as an Internet IT Technician from Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense.
 
 ### 💻 Tech Stack:
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -16,14 +16,22 @@ I'm Matheus Lemes Fialho, a Full-Stack Developer. I'm currently studying softwar
 
 Technician degree in Web development with approaches to programming using languages such as: PHP, C, Python and JavaScript. Learned HTML5, CSS3 and MySQL. Here i learned the pillars of UI/UX, the logic behind the networking system, game development and requirement engineering.
 
-📅 **2021 - Current | Universidade Federal do Pampa - Bachelor's Degree in Software Engineering**
+📅 **2021 - 2025 | Universidade Federal do Pampa - Bachelor's Degree in Software Engineering**
 
 Bachelor's degree in software engineering with approaches to programming using languages such as: Java, C, Haskell, Prolog, JavaScript, TypeScript and Python. Here i learned agile methodologies, software testing and software architectures such as Backend as a Service and Microservices. The most important thing i learned here is how to solve problems and team work.
+
+📅 **2025 - Current | Universidade Federal do Pampa - Master's Degree in Software Engineering**
+
+Master's degree focused on advanced topics in Software Engineering, exploring areas such as complex software architecture, cloud-native applications, and Artificial Intelligence applied to software development. This theoretical knowledge is being applied through a research project centered on the evolution of the RubricPro tool, a system for managing evaluation rubrics in Higher Education. The research aims to enhance this tool by integrating AI-driven features and Gamification concepts, with the goal of contributing to the scientific advancement of user-centric educational software.
 
 ### 🏆 Projects:
 **⭐ Design and Development of the RubricPro Tool**
 
 Process of creation, documentation, requirements analysis, prototyping, usability evaluation, development and testing of a tool for Management and Customization of Evaluation Rubrics for Higher Education. Using the Svelte framework in TypeScript, NodeTS, HTML, CSS, TailWind and several current libraries.
+
+**⭐ Development of a Financial Control Dashboard for IFSul**
+
+Full development lifecycle, including requirements engineering, data analysis, architecture, implementation, and testing of a web-based Business Intelligence (BI) tool for the financial department of a public educational institution (IFSul). The system automates the import and analysis of complex budget spreadsheets, presenting the data through a dynamic dashboard with KPIs, interactive charts, a detailed analysis panel with multi-level filters, and a data table with search and sorting capabilities. The application was developed with Laravel 11, PHP 8.2, MySQL, Tailwind CSS, and JavaScript libraries such as Chart.js and Simple-DataTables.
 
 **⭐ Development and Management of a Web Tool for the Social Assistance Reference Center**
 
